@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\עבודות\AZAR_10\lesson_10\bin\Debug\lesson_10.exe.config
+C:\Users\USER\Desktop\עבודות\AZAR_10\lesson_10\bin\Debug\lesson_10.exe
+C:\Users\USER\Desktop\עבודות\AZAR_10\lesson_10\bin\Debug\lesson_10.pdb
+C:\Users\USER\Desktop\עבודות\AZAR_10\lesson_10\obj\Debug\lesson_10.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\AZAR_10\lesson_10\obj\Debug\lesson_10.calculator_frm.resources
+C:\Users\USER\Desktop\עבודות\AZAR_10\lesson_10\obj\Debug\lesson_10.Properties.Resources.resources
+C:\Users\USER\Desktop\עבודות\AZAR_10\lesson_10\obj\Debug\lesson_10.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\עבודות\AZAR_10\lesson_10\obj\Debug\lesson_10.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\AZAR_10\lesson_10\obj\Debug\lesson_10.exe
+C:\Users\USER\Desktop\עבודות\AZAR_10\lesson_10\obj\Debug\lesson_10.pdb
